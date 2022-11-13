@@ -1,8 +1,8 @@
 import java.util.Locale;
 import java.util.Scanner;
 /*
-         * numero inteiro 1021
          * agencia texto 067-8
+         * numero inteiro 1021         * 
          * nome cliente texto thamyres da silva
          * saldo decimal 237.48
          */
